@@ -1,0 +1,6 @@
+#  translator-comments
+#. extracted-comments
+#: reference...
+#, flag...
+msgid untranslated-string
+msgstr translated-string
