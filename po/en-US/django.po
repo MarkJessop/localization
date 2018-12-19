@@ -1,2 +1,2 @@
-﻿msgid untranslated-string
+msgid untranslated-string
 msgstr translated-string
