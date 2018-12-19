@@ -1,14 +1,17 @@
 {
   "Hello": {
     "value": "Hello World!",
-    "comment": "It's a wild world"
+    "comment": "It's a wild world",
+    "message": "testing"
   },
   "Johnny": {
     "value": "Johnny has {appleCount} apples.",
-    "comment": "Johnny likes making applesauce"
+    "comment": "Johnny likes making applesauce",
+    "message": "testing"    
   },
   "Escapes": {
     "value": "\"Escapes\" are sometimes required",
-    "comment": "No bad JSON"
+    "comment": "No bad JSON",
+    "message": "testing"
   }
 }
